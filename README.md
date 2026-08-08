@@ -28,6 +28,7 @@
 | [1148-article-views-i](https://github.com/AbhishekGorya/LeetCode/tree/master/1148-article-views-i) |
 | [1251-average-selling-price](https://github.com/AbhishekGorya/LeetCode/tree/master/1251-average-selling-price) |
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/AbhishekGorya/LeetCode/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
+| [1484-group-sold-products-by-the-date](https://github.com/AbhishekGorya/LeetCode/tree/master/1484-group-sold-products-by-the-date) |
 | [1517-find-users-with-valid-e-mails](https://github.com/AbhishekGorya/LeetCode/tree/master/1517-find-users-with-valid-e-mails) |
 | [1667-fix-names-in-a-table](https://github.com/AbhishekGorya/LeetCode/tree/master/1667-fix-names-in-a-table) |
 | [1683-invalid-tweets](https://github.com/AbhishekGorya/LeetCode/tree/master/1683-invalid-tweets) |
