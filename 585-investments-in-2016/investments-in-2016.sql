@@ -1,14 +1,13 @@
-SELECT ROUND(SUM(tiv_2016), 2) AS tiv_2016
-FROM Insurance
-WHERE tiv_2015 IN (
-    SELECT tiv_2015
+/* Write your T-SQL query statement below */
+WITH CTE AS
+(
+    SELECT
+        *,
+        COUNT(*)OVER(PARTITION BY lat,lon) AS lat_lon_pair,
+        COUNT(*)OVER(PARTITION BY tiv_2015)AS cnt_2k15
     FROM Insurance
-    GROUP BY tiv_2015
-    HAVING COUNT(*) > 1
 )
-AND (lat, lon) IN (
-    SELECT lat, lon
-    FROM Insurance
-    GROUP BY lat, lon
-    HAVING COUNT(*) = 1
-);
+SELECT 
+    ROUND(SUM(tiv_2016),2) AS tiv_2016
+FROM CTE
+WHERE lat_lon_pair = 1 AND cnt_2k15 > 1
