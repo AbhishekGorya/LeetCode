@@ -77,13 +77,19 @@
 | ------- |
 | [0125-valid-palindrome](https://github.com/AbhishekGorya/LeetCode/tree/master/0125-valid-palindrome) |
 | [0283-move-zeroes](https://github.com/AbhishekGorya/LeetCode/tree/master/0283-move-zeroes) |
+| [0392-is-subsequence](https://github.com/AbhishekGorya/LeetCode/tree/master/0392-is-subsequence) |
 ## String
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/AbhishekGorya/LeetCode/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/AbhishekGorya/LeetCode/tree/master/0242-valid-anagram) |
+| [0392-is-subsequence](https://github.com/AbhishekGorya/LeetCode/tree/master/0392-is-subsequence) |
 ## Simulation
 |  |
 | ------- |
 | [1929-concatenation-of-array](https://github.com/AbhishekGorya/LeetCode/tree/master/1929-concatenation-of-array) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0392-is-subsequence](https://github.com/AbhishekGorya/LeetCode/tree/master/0392-is-subsequence) |
 <!---LeetCode Topics End-->
