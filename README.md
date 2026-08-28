@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/AbhishekGorya/LeetCode/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/AbhishekGorya/LeetCode/tree/master/0011-container-with-most-water) |
 | [0217-contains-duplicate](https://github.com/AbhishekGorya/LeetCode/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/AbhishekGorya/LeetCode/tree/master/0283-move-zeroes) |
 | [1929-concatenation-of-array](https://github.com/AbhishekGorya/LeetCode/tree/master/1929-concatenation-of-array) |
@@ -75,6 +76,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/AbhishekGorya/LeetCode/tree/master/0011-container-with-most-water) |
 | [0125-valid-palindrome](https://github.com/AbhishekGorya/LeetCode/tree/master/0125-valid-palindrome) |
 | [0283-move-zeroes](https://github.com/AbhishekGorya/LeetCode/tree/master/0283-move-zeroes) |
 | [0392-is-subsequence](https://github.com/AbhishekGorya/LeetCode/tree/master/0392-is-subsequence) |
@@ -92,4 +94,8 @@
 |  |
 | ------- |
 | [0392-is-subsequence](https://github.com/AbhishekGorya/LeetCode/tree/master/0392-is-subsequence) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/AbhishekGorya/LeetCode/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
