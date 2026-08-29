@@ -80,12 +80,14 @@
 | [0125-valid-palindrome](https://github.com/AbhishekGorya/LeetCode/tree/master/0125-valid-palindrome) |
 | [0283-move-zeroes](https://github.com/AbhishekGorya/LeetCode/tree/master/0283-move-zeroes) |
 | [0392-is-subsequence](https://github.com/AbhishekGorya/LeetCode/tree/master/0392-is-subsequence) |
+| [1768-merge-strings-alternately](https://github.com/AbhishekGorya/LeetCode/tree/master/1768-merge-strings-alternately) |
 ## String
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/AbhishekGorya/LeetCode/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/AbhishekGorya/LeetCode/tree/master/0242-valid-anagram) |
 | [0392-is-subsequence](https://github.com/AbhishekGorya/LeetCode/tree/master/0392-is-subsequence) |
+| [1768-merge-strings-alternately](https://github.com/AbhishekGorya/LeetCode/tree/master/1768-merge-strings-alternately) |
 ## Simulation
 |  |
 | ------- |
