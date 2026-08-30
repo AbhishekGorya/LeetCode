@@ -4,13 +4,14 @@ class Solution(object):
         :type s: str
         :rtype: str
         """
-        # Split the string into words
         words = s.split()
-        
-        # Reverse the list of words
-        reversed_words = words[::-1]
-        
-        # Join the reversed words with spaces
-        reversed_string = ' '.join(reversed_words)
-        
-        return reversed_string
+
+        start = 0
+        end = len(words) - 1
+
+        while start < end:
+            words[start], words[end] = words[end], words[start]
+            start += 1
+            end -= 1
+
+        return " ".join(words)
