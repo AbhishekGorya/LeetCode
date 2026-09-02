@@ -9,6 +9,7 @@
 | [0217-contains-duplicate](https://github.com/AbhishekGorya/LeetCode/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/AbhishekGorya/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/AbhishekGorya/LeetCode/tree/master/0283-move-zeroes) |
+| [0334-increasing-triplet-subsequence](https://github.com/AbhishekGorya/LeetCode/tree/master/0334-increasing-triplet-subsequence) |
 | [0605-can-place-flowers](https://github.com/AbhishekGorya/LeetCode/tree/master/0605-can-place-flowers) |
 | [0704-binary-search](https://github.com/AbhishekGorya/LeetCode/tree/master/0704-binary-search) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/AbhishekGorya/LeetCode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
@@ -114,6 +115,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/AbhishekGorya/LeetCode/tree/master/0011-container-with-most-water) |
+| [0334-increasing-triplet-subsequence](https://github.com/AbhishekGorya/LeetCode/tree/master/0334-increasing-triplet-subsequence) |
 | [0605-can-place-flowers](https://github.com/AbhishekGorya/LeetCode/tree/master/0605-can-place-flowers) |
 ## Prefix Sum
 |  |
@@ -123,4 +125,8 @@
 |  |
 | ------- |
 | [0704-binary-search](https://github.com/AbhishekGorya/LeetCode/tree/master/0704-binary-search) |
+## Longest Increasing Subsequence
+|  |
+| ------- |
+| [0334-increasing-triplet-subsequence](https://github.com/AbhishekGorya/LeetCode/tree/master/0334-increasing-triplet-subsequence) |
 <!---LeetCode Topics End-->
