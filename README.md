@@ -12,6 +12,7 @@
 | [0334-increasing-triplet-subsequence](https://github.com/AbhishekGorya/LeetCode/tree/master/0334-increasing-triplet-subsequence) |
 | [0605-can-place-flowers](https://github.com/AbhishekGorya/LeetCode/tree/master/0605-can-place-flowers) |
 | [0704-binary-search](https://github.com/AbhishekGorya/LeetCode/tree/master/0704-binary-search) |
+| [0724-find-pivot-index](https://github.com/AbhishekGorya/LeetCode/tree/master/0724-find-pivot-index) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/AbhishekGorya/LeetCode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/AbhishekGorya/LeetCode/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1929-concatenation-of-array](https://github.com/AbhishekGorya/LeetCode/tree/master/1929-concatenation-of-array) |
@@ -122,6 +123,7 @@
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/AbhishekGorya/LeetCode/tree/master/0238-product-of-array-except-self) |
+| [0724-find-pivot-index](https://github.com/AbhishekGorya/LeetCode/tree/master/0724-find-pivot-index) |
 ## Binary Search
 |  |
 | ------- |
