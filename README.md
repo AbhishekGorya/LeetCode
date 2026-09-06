@@ -131,6 +131,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0374-guess-number-higher-or-lower](https://github.com/AbhishekGorya/LeetCode/tree/master/0374-guess-number-higher-or-lower) |
 | [0704-binary-search](https://github.com/AbhishekGorya/LeetCode/tree/master/0704-binary-search) |
 ## Longest Increasing Subsequence
 |  |
@@ -153,4 +154,8 @@
 | ------- |
 | [0643-maximum-average-subarray-i](https://github.com/AbhishekGorya/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/AbhishekGorya/LeetCode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
+## Interactive
+|  |
+| ------- |
+| [0374-guess-number-higher-or-lower](https://github.com/AbhishekGorya/LeetCode/tree/master/0374-guess-number-higher-or-lower) |
 <!---LeetCode Topics End-->
