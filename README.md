@@ -16,6 +16,7 @@
 | [0643-maximum-average-subarray-i](https://github.com/AbhishekGorya/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/AbhishekGorya/LeetCode/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/AbhishekGorya/LeetCode/tree/master/0724-find-pivot-index) |
+| [1004-max-consecutive-ones-iii](https://github.com/AbhishekGorya/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/AbhishekGorya/LeetCode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/AbhishekGorya/LeetCode/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1732-find-the-highest-altitude](https://github.com/AbhishekGorya/LeetCode/tree/master/1732-find-the-highest-altitude) |
@@ -130,12 +131,14 @@
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/AbhishekGorya/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0724-find-pivot-index](https://github.com/AbhishekGorya/LeetCode/tree/master/0724-find-pivot-index) |
+| [1004-max-consecutive-ones-iii](https://github.com/AbhishekGorya/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
 | [1732-find-the-highest-altitude](https://github.com/AbhishekGorya/LeetCode/tree/master/1732-find-the-highest-altitude) |
 ## Binary Search
 |  |
 | ------- |
 | [0374-guess-number-higher-or-lower](https://github.com/AbhishekGorya/LeetCode/tree/master/0374-guess-number-higher-or-lower) |
 | [0704-binary-search](https://github.com/AbhishekGorya/LeetCode/tree/master/0704-binary-search) |
+| [1004-max-consecutive-ones-iii](https://github.com/AbhishekGorya/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
 ## Longest Increasing Subsequence
 |  |
 | ------- |
@@ -156,6 +159,7 @@
 |  |
 | ------- |
 | [0643-maximum-average-subarray-i](https://github.com/AbhishekGorya/LeetCode/tree/master/0643-maximum-average-subarray-i) |
+| [1004-max-consecutive-ones-iii](https://github.com/AbhishekGorya/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/AbhishekGorya/LeetCode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 ## Interactive
 |  |
