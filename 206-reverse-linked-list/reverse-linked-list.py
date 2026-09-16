@@ -9,10 +9,10 @@ class Solution:
         current = head
 
         while current:
-            temp = current.next
+            right = current.next
             current.next = prev
             prev = current
-            current = temp
+            current = right
 
         return prev
         
