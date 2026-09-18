@@ -27,6 +27,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/AbhishekGorya/LeetCode/tree/master/0001-two-sum) |
+| [0013-roman-to-integer](https://github.com/AbhishekGorya/LeetCode/tree/master/0013-roman-to-integer) |
 | [0217-contains-duplicate](https://github.com/AbhishekGorya/LeetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/AbhishekGorya/LeetCode/tree/master/0242-valid-anagram) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/AbhishekGorya/LeetCode/tree/master/1679-max-number-of-k-sum-pairs) |
@@ -108,6 +109,7 @@
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/AbhishekGorya/LeetCode/tree/master/0013-roman-to-integer) |
 | [0058-length-of-last-word](https://github.com/AbhishekGorya/LeetCode/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/AbhishekGorya/LeetCode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/AbhishekGorya/LeetCode/tree/master/0151-reverse-words-in-a-string) |
@@ -154,6 +156,7 @@
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/AbhishekGorya/LeetCode/tree/master/0009-palindrome-number) |
+| [0013-roman-to-integer](https://github.com/AbhishekGorya/LeetCode/tree/master/0013-roman-to-integer) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/AbhishekGorya/LeetCode/tree/master/1071-greatest-common-divisor-of-strings) |
 ## Euclidean Algorithm
 |  |
