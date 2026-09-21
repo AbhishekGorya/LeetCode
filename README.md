@@ -8,6 +8,7 @@
 | [0011-container-with-most-water](https://github.com/AbhishekGorya/LeetCode/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/AbhishekGorya/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/AbhishekGorya/LeetCode/tree/master/0027-remove-element) |
+| [0075-sort-colors](https://github.com/AbhishekGorya/LeetCode/tree/master/0075-sort-colors) |
 | [0217-contains-duplicate](https://github.com/AbhishekGorya/LeetCode/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/AbhishekGorya/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/AbhishekGorya/LeetCode/tree/master/0283-move-zeroes) |
@@ -87,6 +88,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/AbhishekGorya/LeetCode/tree/master/0075-sort-colors) |
 | [0217-contains-duplicate](https://github.com/AbhishekGorya/LeetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/AbhishekGorya/LeetCode/tree/master/0242-valid-anagram) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/AbhishekGorya/LeetCode/tree/master/1679-max-number-of-k-sum-pairs) |
@@ -96,6 +98,7 @@
 | [0011-container-with-most-water](https://github.com/AbhishekGorya/LeetCode/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/AbhishekGorya/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/AbhishekGorya/LeetCode/tree/master/0027-remove-element) |
+| [0075-sort-colors](https://github.com/AbhishekGorya/LeetCode/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/AbhishekGorya/LeetCode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/AbhishekGorya/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0283-move-zeroes](https://github.com/AbhishekGorya/LeetCode/tree/master/0283-move-zeroes) |
@@ -190,4 +193,12 @@
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/AbhishekGorya/LeetCode/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/AbhishekGorya/LeetCode/tree/master/0206-reverse-linked-list) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/AbhishekGorya/LeetCode/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/AbhishekGorya/LeetCode/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
