@@ -1,2 +1,4 @@
-delete p1 from person p1,person p2 
-where p1.email=p2.email and p1.id>p2.id;
+# Write your MySQL query statement below
+with dupli as (select id , row_number() over (partition by email order by id) as rnk from Person)
+
+delete from person where id in (select id from dupli where rnk>1)
