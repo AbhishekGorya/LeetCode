@@ -1,4 +1,15 @@
-# Write your MySQL query statement below
-with dupli as (select id , row_number() over (partition by email order by id) as rnk from Person)
-
-delete from person where id in (select id from dupli where rnk>1)
+WITH duplicates AS (
+    SELECT
+        id,
+        ROW_NUMBER() OVER (
+            PARTITION BY email
+            ORDER BY id
+        ) AS row_num
+    FROM Person
+)
+DELETE FROM Person
+WHERE id IN (
+    SELECT id
+    FROM duplicates
+    WHERE row_num > 1
+);
