@@ -163,6 +163,7 @@
 | ------- |
 | [0009-palindrome-number](https://github.com/AbhishekGorya/LeetCode/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/AbhishekGorya/LeetCode/tree/master/0013-roman-to-integer) |
+| [0263-ugly-number](https://github.com/AbhishekGorya/LeetCode/tree/master/0263-ugly-number) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/AbhishekGorya/LeetCode/tree/master/1071-greatest-common-divisor-of-strings) |
 ## Euclidean Algorithm
 |  |
