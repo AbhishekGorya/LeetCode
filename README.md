@@ -21,6 +21,7 @@
 | [1004-max-consecutive-ones-iii](https://github.com/AbhishekGorya/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/AbhishekGorya/LeetCode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/AbhishekGorya/LeetCode/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
+| [1672-richest-customer-wealth](https://github.com/AbhishekGorya/LeetCode/tree/master/1672-richest-customer-wealth) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/AbhishekGorya/LeetCode/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1732-find-the-highest-altitude](https://github.com/AbhishekGorya/LeetCode/tree/master/1732-find-the-highest-altitude) |
 | [1929-concatenation-of-array](https://github.com/AbhishekGorya/LeetCode/tree/master/1929-concatenation-of-array) |
@@ -205,4 +206,8 @@
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/AbhishekGorya/LeetCode/tree/master/0075-sort-colors) |
+## Matrix
+|  |
+| ------- |
+| [1672-richest-customer-wealth](https://github.com/AbhishekGorya/LeetCode/tree/master/1672-richest-customer-wealth) |
 <!---LeetCode Topics End-->
