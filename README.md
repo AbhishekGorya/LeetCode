@@ -25,6 +25,7 @@
 | [1679-max-number-of-k-sum-pairs](https://github.com/AbhishekGorya/LeetCode/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1732-find-the-highest-altitude](https://github.com/AbhishekGorya/LeetCode/tree/master/1732-find-the-highest-altitude) |
 | [1929-concatenation-of-array](https://github.com/AbhishekGorya/LeetCode/tree/master/1929-concatenation-of-array) |
+| [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/AbhishekGorya/LeetCode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 ## Hash Table
 |  |
 | ------- |
@@ -166,6 +167,7 @@
 | [0013-roman-to-integer](https://github.com/AbhishekGorya/LeetCode/tree/master/0013-roman-to-integer) |
 | [0263-ugly-number](https://github.com/AbhishekGorya/LeetCode/tree/master/0263-ugly-number) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/AbhishekGorya/LeetCode/tree/master/1071-greatest-common-divisor-of-strings) |
+| [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/AbhishekGorya/LeetCode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 ## Euclidean Algorithm
 |  |
 | ------- |
